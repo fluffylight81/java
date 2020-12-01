@@ -1,0 +1,7 @@
+-classpath 'D:\\Cloud\\GitHub\\java\\sandbox\\build\\classes\\java\\main;D:\\Cloud\\GitHub\\java\\sandbox\\build\\resources\\main'
+-d 'D:\\Cloud\\GitHub\\java\\sandbox\\build\\docs\\javadoc'
+-doctitle 'sandbox API'
+-notimestamp 
+-quiet 
+-windowtitle 'sandbox API'
+'D:\\Cloud\\GitHub\\java\\sandbox\\src\\main\\java\\MyFirstProgram.java'
